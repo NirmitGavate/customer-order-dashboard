@@ -52,10 +52,13 @@ The dashboard allows stakeholders to explore:
 
 ---
 
-## 📸 Dashboard Snapshots
+## 📊 Dashboard Snapshots
 
-> You can insert images here after uploading them to GitHub using:
-```md
-![Dashboard Main View](images/dashboard_main.png)
-![Product Sales View](images/dashboard_product_view.png)
-![Time Series View](images/dashboard_time_view.png)
+### 1. Main Dashboard View
+<img src="https://github.com/NirmitGavate/customer-order-dashboard/blob/main/images/dashboard_main.png?raw=true" width="600" style="border: 1px solid #eee; border-radius: 8px" alt="Main Dashboard Overview">
+
+### 2. Product Sales Analysis
+<img src="https://github.com/NirmitGavate/customer-order-dashboard/blob/main/images/dashboard_product_view.png?raw=true" width="600" style="border: 1px solid #eee; border-radius: 8px" alt="Product Sales Breakdown">
+
+### 3. Time Series Trends
+<img src="https://github.com/NirmitGavate/customer-order-dashboard/blob/main/images/dashboard_time_view.png?raw=true" width="600" style="border: 1px solid #eee; border-radius: 8px" alt="Sales Trend Analysis">
